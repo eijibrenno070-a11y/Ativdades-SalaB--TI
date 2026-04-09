@@ -1,4 +1,6 @@
-﻿Console.OutputEncoding = System.Text.Encoding.UTF8;
+//Brenno Eiji da Silva Furuko
+
+Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 float moeda, converorReal, resultado;
 int escolha;
