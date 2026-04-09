@@ -1,4 +1,5 @@
-﻿Console.WriteLine("--- CALCULADORA DE IMC ---");
+//Brenno Eiji da Silva Furuko
+Console.WriteLine("--- CALCULADORA DE IMC ---");
 
 Console.Write("Digite seu peso (kg): ");
 double peso = double.Parse(Console.ReadLine());
