@@ -1,4 +1,4 @@
-﻿
+//Brenno EIji da Silva Furuko﻿
 // --- PARTE 1: O DESPERTAR ---
 Console.WriteLine("Digite o nome do Herói");
 string nomeHeroi = Console.ReadLine();
