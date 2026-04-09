@@ -1,4 +1,5 @@
-﻿Console.WriteLine("--- VERIFICADOR DE NÚMEROS PRIMOS ---");
+//Brenno Eiji da Silva Furuko
+Console.WriteLine("--- VERIFICADOR DE NÚMEROS PRIMOS ---");
 
 
 Console.Write("Digite um número inteiro positivo: ");
