@@ -1,4 +1,5 @@
-﻿Console.Write("Digite o número que você deseja ver a tabuada: ");
+//Brenno Eiji da Silva Furuko
+Console.Write("Digite o número que você deseja ver a tabuada: ");
 
 int numero = int.Parse(Console.ReadLine());
 
