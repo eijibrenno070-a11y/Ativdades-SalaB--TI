@@ -1,3 +1,5 @@
+//Brenno Eiji da Silva Furuko
+
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 int razão, termos, resultado = 0;
