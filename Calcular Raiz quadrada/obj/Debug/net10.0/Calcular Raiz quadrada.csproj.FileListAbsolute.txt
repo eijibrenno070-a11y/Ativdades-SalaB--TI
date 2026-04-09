@@ -1,0 +1,14 @@
+C:\Users\dev\Documents\Atividades TI\Calcular Raiz quadrada\bin\Debug\net10.0\Calcular Raiz quadrada.exe
+C:\Users\dev\Documents\Atividades TI\Calcular Raiz quadrada\bin\Debug\net10.0\Calcular Raiz quadrada.deps.json
+C:\Users\dev\Documents\Atividades TI\Calcular Raiz quadrada\bin\Debug\net10.0\Calcular Raiz quadrada.runtimeconfig.json
+C:\Users\dev\Documents\Atividades TI\Calcular Raiz quadrada\bin\Debug\net10.0\Calcular Raiz quadrada.dll
+C:\Users\dev\Documents\Atividades TI\Calcular Raiz quadrada\bin\Debug\net10.0\Calcular Raiz quadrada.pdb
+C:\Users\dev\Documents\Atividades TI\Calcular Raiz quadrada\obj\Debug\net10.0\Calcular Raiz quadrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\Atividades TI\Calcular Raiz quadrada\obj\Debug\net10.0\Calcular Raiz quadrada.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\Atividades TI\Calcular Raiz quadrada\obj\Debug\net10.0\Calcular Raiz quadrada.AssemblyInfo.cs
+C:\Users\dev\Documents\Atividades TI\Calcular Raiz quadrada\obj\Debug\net10.0\Calcular Raiz quadrada.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Atividades TI\Calcular Raiz quadrada\obj\Debug\net10.0\Calcular Raiz quadrada.dll
+C:\Users\dev\Documents\Atividades TI\Calcular Raiz quadrada\obj\Debug\net10.0\refint\Calcular Raiz quadrada.dll
+C:\Users\dev\Documents\Atividades TI\Calcular Raiz quadrada\obj\Debug\net10.0\Calcular Raiz quadrada.pdb
+C:\Users\dev\Documents\Atividades TI\Calcular Raiz quadrada\obj\Debug\net10.0\Calcular Raiz quadrada.genruntimeconfig.cache
+C:\Users\dev\Documents\Atividades TI\Calcular Raiz quadrada\obj\Debug\net10.0\ref\Calcular Raiz quadrada.dll
