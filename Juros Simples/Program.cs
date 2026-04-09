@@ -1,4 +1,5 @@
-﻿Console.WriteLine("--- CÁLCULO DE JUROS SIMPLES ---");
+//Brenno Eiji da Silva Furuko
+Console.WriteLine("--- CÁLCULO DE JUROS SIMPLES ---");
 
 Console.Write("Digite o Capital (C): ");
 double capital = double.Parse(Console.ReadLine());
