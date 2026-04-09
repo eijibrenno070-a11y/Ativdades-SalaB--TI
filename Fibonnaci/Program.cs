@@ -19,4 +19,4 @@ for (int i = 3; i <= termos; i++)
 }
 
 Console.WriteLine("\n\nFim da sequência. Aperte qualquer tecla para sair.");
-Console.ReadKey();
+
