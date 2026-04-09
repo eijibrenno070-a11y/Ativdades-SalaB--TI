@@ -1,4 +1,5 @@
-﻿Console.WriteLine("--- CALCULADOR DE RAIZ QUADRADA ---");
+//Brenno Eiji da Silva Furuko
+Console.WriteLine("--- CALCULADOR DE RAIZ QUADRADA ---");
 
 Console.Write("Digite um número: ");
 double numero = double.Parse(Console.ReadLine());
