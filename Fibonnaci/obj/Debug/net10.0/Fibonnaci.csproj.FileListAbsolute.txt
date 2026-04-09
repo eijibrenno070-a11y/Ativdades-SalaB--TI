@@ -1,0 +1,14 @@
+C:\Users\dev\Documents\Atividades TI\Fibonnaci\bin\Debug\net10.0\Fibonnaci.exe
+C:\Users\dev\Documents\Atividades TI\Fibonnaci\bin\Debug\net10.0\Fibonnaci.deps.json
+C:\Users\dev\Documents\Atividades TI\Fibonnaci\bin\Debug\net10.0\Fibonnaci.runtimeconfig.json
+C:\Users\dev\Documents\Atividades TI\Fibonnaci\bin\Debug\net10.0\Fibonnaci.dll
+C:\Users\dev\Documents\Atividades TI\Fibonnaci\bin\Debug\net10.0\Fibonnaci.pdb
+C:\Users\dev\Documents\Atividades TI\Fibonnaci\obj\Debug\net10.0\Fibonnaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\Atividades TI\Fibonnaci\obj\Debug\net10.0\Fibonnaci.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\Atividades TI\Fibonnaci\obj\Debug\net10.0\Fibonnaci.AssemblyInfo.cs
+C:\Users\dev\Documents\Atividades TI\Fibonnaci\obj\Debug\net10.0\Fibonnaci.csproj.CoreCompileInputs.cache
+C:\Users\dev\Documents\Atividades TI\Fibonnaci\obj\Debug\net10.0\Fibonnaci.dll
+C:\Users\dev\Documents\Atividades TI\Fibonnaci\obj\Debug\net10.0\refint\Fibonnaci.dll
+C:\Users\dev\Documents\Atividades TI\Fibonnaci\obj\Debug\net10.0\Fibonnaci.pdb
+C:\Users\dev\Documents\Atividades TI\Fibonnaci\obj\Debug\net10.0\Fibonnaci.genruntimeconfig.cache
+C:\Users\dev\Documents\Atividades TI\Fibonnaci\obj\Debug\net10.0\ref\Fibonnaci.dll
